@@ -1,0 +1,20 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+button{
+    display: inline-block;
+    font-size: inherit; 
+    line-height: normal;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    border: 2px groove  #369;
+    vertical-align: middle;
+    overflow: visible;
+    
+}

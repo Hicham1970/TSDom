@@ -1,0 +1,14 @@
+{
+  "name": "tsdom",
+  "version": "1.0.0",
+  "description": "introduction to the DOM in  typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hicham Garoum",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
